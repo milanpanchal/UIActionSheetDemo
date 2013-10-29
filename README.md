@@ -1,4 +1,4 @@
 UIActionSheetDemo
 =================
 
-Show Diff. of UIActionSheet in iPhone and iPad
+Show UIActionSheet difference in iPhone and iPad application.
